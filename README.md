@@ -6,7 +6,6 @@
 
 - 팀 명: KAMELEON
 - 팀 멤버: 장석찬(팀장), 이태겸, 임혁진, 윤은주
-- Github 링크: [**KAMELEON**](https://github.com/codestates/beb-03-Kameleon)
 
 ## Project
 
